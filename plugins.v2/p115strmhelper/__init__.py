@@ -124,7 +124,7 @@ class P115StrmHelper(_PluginBase):
     # 插件版本
     plugin_version = "1.8.33"
     # 插件作者
-    plugin_author = "DDSRem,rainy"
+    plugin_author = "DDSRem"
     # 作者主页
     author_url = "https://github.com/DDSRem"
     # 插件配置项ID前缀

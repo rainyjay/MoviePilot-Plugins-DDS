@@ -89,12 +89,12 @@
         }
     },
     "P115StrmHelper": {
-        "name": "115网盘STRM助手",
+        "name": "115网盘STRM助手 自用",
         "description": "115网盘STRM生成一条龙服务",
         "labels": "云盘",
         "version": "1.8.33",
         "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Frontend/refs/heads/v2/src/assets/images/misc/u115.png",
-        "author": "DDSRem,rainy",
+        "author": "DDSRem",
         "level": 1,
         "history": {
             "v1.8.33": "test",
